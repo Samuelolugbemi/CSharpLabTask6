@@ -5,11 +5,12 @@ namespace PackageTest
     {
         private double packageSizeInKg;
         private decimal costPerKg;
-        private string PackageType = "OverNight Package";
-        public OvernightPackage(string firstNameOfSender, string lastNameOfSender, string addressOfSender, string firstNameOfRecipient, string lastNameOfRecipient, string addressOfRecipient, double packageSizeInKg, decimal costPerKg) : base(firstNameOfSender, lastNameOfSender, addressOfSender, firstNameOfRecipient, lastNameOfRecipient, addressOfRecipient)
+        private  string PackageType {get; set;}
+        public OvernightPackage(string firstNameOfSender, string lastNameOfSender, string addressOfSender, string firstNameOfRecipient, string lastNameOfRecipient, string addressOfRecipient, double packageSizeInKg, decimal costPerKg, string packageType) : base(firstNameOfSender, lastNameOfSender, addressOfSender, firstNameOfRecipient, lastNameOfRecipient, addressOfRecipient)
         {
             PackageSizeInKg = packageSizeInKg;
             CostPerKg = costPerKg;
+            PackageType = packageType;
         }
 
         public double PackageSizeInKg
@@ -44,7 +45,7 @@ namespace PackageTest
 
         public override string ToString()
         {
-            return $"{PackageType} {base.ToString()}\nSize Of Package: {PackageSizeInKg}\nCost Per Kg: {CostPerKg}";
+            return $"{PackageType} {base.ToString()}\nSize Of Package: {PackageSizeInKg}kg\nCost Per Kg: {CostPerKg:C}";
         }
     }
 }

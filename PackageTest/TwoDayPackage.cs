@@ -3,8 +3,7 @@ namespace PackageTest
 {
     public class TwoDayPackage : OvernightPackage
     {
-        private  string PackageType = "Two Day Package";
-        public TwoDayPackage(string firstNameOfSender, string lastNameOfSender, string addressOfSender, string firstNameOfRecipient, string lastNameOfRecipient, string addressOfRecipient, double packageSizeInKg, decimal costPerKg) : base(firstNameOfSender, lastNameOfSender, addressOfSender, firstNameOfRecipient, lastNameOfRecipient, addressOfRecipient, packageSizeInKg, costPerKg)
+        public TwoDayPackage(string firstNameOfSender, string lastNameOfSender, string addressOfSender, string firstNameOfRecipient, string lastNameOfRecipient, string addressOfRecipient, double packageSizeInKg, decimal costPerKg, string packageType) : base(firstNameOfSender, lastNameOfSender, addressOfSender, firstNameOfRecipient, lastNameOfRecipient, addressOfRecipient, packageSizeInKg, costPerKg, packageType)
         {
             
         }
