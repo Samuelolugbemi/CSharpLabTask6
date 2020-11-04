@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\bin\Debug\netcoreapp3.1\PackageTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\bin\Debug\netcoreapp3.1\PackageTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\bin\Debug\netcoreapp3.1\PackageTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\bin\Debug\netcoreapp3.1\PackageTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\bin\Debug\netcoreapp3.1\PackageTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\bin\Debug\netcoreapp3.1\PackageTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\obj\Debug\netcoreapp3.1\PackageTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\obj\Debug\netcoreapp3.1\PackageTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\obj\Debug\netcoreapp3.1\PackageTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\obj\Debug\netcoreapp3.1\PackageTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task6\packagetest\obj\Debug\netcoreapp3.1\PackageTest.pdb
